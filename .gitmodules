@@ -1,0 +1,3 @@
+[submodule "document-capture"]
+	path = document-capture
+	url = https://github.com/ProgrammerPratyush/License-or-document-reader-React-App
